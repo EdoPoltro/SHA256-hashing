@@ -1,0 +1,1 @@
+Questo e' il file F, il piu' grande di tutti, progettato per testare la capacita' del tuo server di gestire file di grandi dimensioni e dimostrare la schedulazione SJF.
