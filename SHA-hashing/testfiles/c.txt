@@ -1,1 +1,0 @@
-file C con un contenuto piu' lungo per testare la schedulazione.
